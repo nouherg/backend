@@ -1,0 +1,4 @@
+{
+    "mongourl": "mongodb+srv://nouhe:nouhenouhe123@devconnector.kzg7xwl.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret":"secretok"
+}
